@@ -1,0 +1,12 @@
+{
+    "_id" : {"$oid":"635e905bee3611df82fbe869"},
+    "user_id" : {"$oid":"635e90593e3611df82fbe869"},
+    "bike_id" : {"$oid":"635e905brd3611df82fbe869"},
+    "start_point_id" : "1",
+    "start_time" : "2022-10-30 19:16:00",
+    "finish_point_id" : "2",
+    "finish_time" : "2022-10-31 21:45:00",
+    "total_cost" : "6",
+    "status" : "complete",
+    "description" : "Description of the order"
+}
